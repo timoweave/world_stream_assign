@@ -1,0 +1,19 @@
+{
+  "name": "css_assign5",
+  "version": "0.0.1",
+  "description": "",
+  "main": "not_applicable.js",
+  "scripts": {
+    "start": "gulp browse",
+    "serve-files": "./node_modules/.bin/serve --port 8088"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "bs-html-injector": "^2.0.4",
+    "gulp": "^3.9.0",
+    "gulp-install": "^0.4.0",
+    "serve": "^1.4.0"
+  }
+}
